@@ -3,9 +3,9 @@
 ---
 
 ## Identitas
--**Nama** : Embria Leilani Shanawa
--**Kelas** : XI RPL 5
--**Mapel** : Kodinng & Kecerdasan Artifisial
+**Nama** : Embria Leilani Shanawa
+**Kelas** : XI RPL 5
+**Mapel** : Kodinng & Kecerdasan Artifisial
 
 
 ---
@@ -15,7 +15,7 @@ Praktikum ini bertujuan untuk memahami penggunaan abstract class dan inheritance
 Program menunjukkan konsep polimorfisme, karena metode yang sama dapat menghasilkan output yang berbeda tergantung objek yang digunakan.
 
 **Hasil Output**
-Saya adalah Hero: Alucard
+Saya adalah Hero: Alucard 
 Saya adalah Monster: Serigala
 Hero Alucard menebas Monster!
 Monster Serigala menggigit Hero!
