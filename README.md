@@ -3,8 +3,8 @@
 ---
 
 ## Identitas
-**Nama** : Embria Leilani Shanawa
-**Kelas** : XI RPL 5
+**Nama** : Embria Leilani Shanawa<br>
+**Kelas** : XI RPL 5<br>
 **Mapel** : Kodinng & Kecerdasan Artifisial
 
 ---
