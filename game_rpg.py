@@ -35,7 +35,7 @@ class Mage(Hero):
 
 # -- Main Program --
 print("\n--- Update Class Hero ---")
-lylia = Mage("lylia", 80, 30, 100)
+lylia = Mage("Lylia", 80, 30, 100)
 balmond = Hero("Balmond", 200, 10)
 
 lylia.info()
