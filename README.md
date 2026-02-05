@@ -4,7 +4,9 @@
 
 ## Identitas
 **Nama** : Embria Leilani Shanawa
+
 **Kelas** : XI RPL 5
+
 **Mapel** : Kodinng & Kecerdasan Artifisial
 
 
@@ -16,8 +18,11 @@ Program menunjukkan konsep polimorfisme, karena metode yang sama dapat menghasil
 
 **Hasil Output**
 Saya adalah Hero: Alucard 
+
 Saya adalah Monster: Serigala
+
 Hero Alucard menebas Monster!
+
 Monster Serigala menggigit Hero!
 
 ---
